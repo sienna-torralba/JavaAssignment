@@ -1,6 +1,6 @@
 # Java Assignment
 
-Please refer to JUnit Test Case in pac
+Please refer to JUnit Test Case in package test/com/section to run the solutions.
 
-        JavaAssignment/JavaAssignment/test/com/section/a/Solution1.java
+Class Diagram
       
